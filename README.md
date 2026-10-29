@@ -2,7 +2,6 @@
 
 Echo turns a phone into a contactless breathing monitor using sonar. The phone's speaker plays an inaudible tone (about 16–20 kHz), the microphone listens to the echo off the person's chest, and the app tracks the echo's phase to measure chest movement down to fractions of a millimeter. No camera, no wearable, and it works in the dark.
 
-Built for the 2026 Congressional App Challenge (California's 14th district).
 
 Echo is not a medical device.
 
